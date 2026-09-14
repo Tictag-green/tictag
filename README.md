@@ -105,3 +105,9 @@ Les prochains développements concernent les plugins et systèmes de nettoyage q
 - [Licence et conditions d’usage](LICENCE-ET-USAGES.md)
 
 Les propositions de plugins, d’intégrations et de supports de diffusion sont bienvenus dans l’onglet **Issues**. Utilisez des données fictives pour partager vos exemples.
+
+## Soutenir TicTag ⭐
+
+L’idée vous plaît ? Ajoutez une étoile au dépôt en cliquant sur **Star**, en haut à droite.
+
+Et pour faire grandir TicTag : partagez le projet ou ajoutez une balise à vos modèles d’emails !
