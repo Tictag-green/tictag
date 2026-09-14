@@ -82,7 +82,9 @@ Ajouter une ligne est facile. Choisir la bonne durée pour tous les modèles d�
 
 L’accompagnement envisagé autour de TicTag porte sur ce travail : inventorier les modèles, choisir les balises, traiter les exceptions, aider à l’intégration et faire évoluer les choix dans le temps.
 
-L’intention est de permettre le balisage gratuit des propres emails des organisations. Les conditions d’usage et leur articulation avec la licence annoncée sont décrites dans [Licence et usages](LICENCE-ET-USAGES.md).
+Le balisage de vos propres emails est gratuit et autorisé, y compris pour les entreprises et leurs communications commerciales. Aucune autorisation individuelle ni redevance n’est nécessaire pour cet usage.
+
+La commercialisation d’une offre sous la marque TicTag nécessite un accord préalable du titulaire de la marque. Consultez les [conditions d’utilisation](LICENCE-ET-USAGES.md).
 
 ## Un mot à rendre populaire
 
